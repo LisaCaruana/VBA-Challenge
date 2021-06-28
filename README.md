@@ -10,7 +10,7 @@ the script, the final project runs through
 Conditional formatting highlights positive change in green and negative change in red.
 
 - - -
-This assignment is from data Denver University's Data Analytics Boot Camp. 
+This assignment is from the University of Denver's Data Analytics Boot Camp. 
 ### Copyright
 
 Trilogy Education Services © 2020. All Rights Reserved.
